@@ -37,7 +37,7 @@ int main() {
 
 				cerr << "----" << endl;
 				cerr << fix_to_4(number1) << endl;
-				cerr << fix_to_4(number2) << endl;
+				cerr << fix_to_4(number2) << "-" << endl;
 				cerr << "====" << endl;
 
 				number = fix_to_4(number1 - number2);
